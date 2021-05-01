@@ -1,4 +1,4 @@
-﻿**Learning a family of functions**
+# Learning a family of functions
 
 
 **Goal**
